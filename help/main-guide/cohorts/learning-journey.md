@@ -35,4 +35,4 @@ ht-degree: 0%
 
 最後幾週包括進行學習的Capstone挑戰賽，以及一些認證準備時間，讓您準備好參加Adobe認證考試。
 
-同類群組完成徽章將於[我的成就](https://experienceleague.adobe.com/en/premium/my-achievements)中提供。
+同類群組完成徽章將於[我的成就](https://experienceleague.adobe.com/zh-hant/premium/my-achievements)中提供。

@@ -31,8 +31,8 @@ ht-degree: 0%
 - 請嘗試其他瀏覽器。
 - 嘗試替代網路或裝置。 您組織的網路或防火牆設定可能會阻止存取虛擬會議室。 如果可用，請嘗試使用其他網路或個人裝置。
 - 啟用音訊裝置設定。
-- 請查閱Adobe Connect的[技術規格](https://helpx.adobe.com/adobe-connect/connect-tech-spec/12-10-technical-specifications.html)。
-- 允許列出工程部門建議的必要網域、IP位址和網路連線埠。 建議您與貴組織的IT團隊共用此[相關的Adobe文章](https://helpx.adobe.com/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html)，讓他們允許必要的UDP和TCP連線埠，並確保媒體連線正常。
+- 請查閱Adobe Connect的[技術規格](https://helpx.adobe.com/tw/adobe-connect/connect-tech-spec/12-10-technical-specifications.html)。
+- 允許列出工程部門建議的必要網域、IP位址和網路連線埠。 建議您與貴組織的IT團隊共用此[相關的Adobe文章](https://helpx.adobe.com/tw/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html)，讓他們允許必要的UDP和TCP連線埠，並確保媒體連線正常。
 
 **其他Adobe Connect資源：**
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 使用行事曆邀請內的個人化連結加入會議室。
 
 如果您遺失行事曆邀請，或無法從個人化連結加入，請依照下列備份步驟啟動會議室：
-1. 移至[**[!UICONTROL 我的學習&#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings)。
+1. 移至[**[!UICONTROL 我的學習&#x200B;]**](https://experienceleague.adobe.com/zh-hant/premium/learnings)。
 1. 導覽至&#x200B;**[!UICONTROL 進行中學習]**&#x200B;區段。
 1. 在&#x200B;**[!UICONTROL 即時講師]**&#x200B;下，找出您的課程。
 1. 您應該會看到概覽。 切換至&#x200B;**[!UICONTROL 工作階段詳細資料]**&#x200B;標籤，並找出您所在的日期。
@@ -57,7 +57,7 @@ ht-degree: 0%
 使用行事曆邀請內的個人化連結加入會議室。
 
 如果您遺失行事曆邀請，或無法從個人化連結加入，請依照下列備份步驟啟動會議室：
-1. 移至[**[!UICONTROL 我的學習&#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings)。
+1. 移至[**[!UICONTROL 我的學習&#x200B;]**](https://experienceleague.adobe.com/zh-hant/premium/learnings)。
 1. 導覽至&#x200B;**[!UICONTROL 進行中學習]**&#x200B;區段。
 1. 找到同類群組。
 1. 導覽至適當的周並展開工作階段。

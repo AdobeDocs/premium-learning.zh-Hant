@@ -54,5 +54,5 @@ Campaign使用者端是僅限Windows的應用程式。 如果您沒有安裝Camp
 
 建議您下載並安裝這些Chrome擴充功能：
 
-* [Adobe Experience Platform Debugger](https://experienceleague.adobe.com/en/docs/experience-platform/debugger/home)
+* [Adobe Experience Platform Debugger](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/debugger/home)
 * [Adobe Target視覺化體驗撰寫器](https://chromewebstore.google.com/detail/adobe-experience-cloud-vi/kgmjjkfjacffaebgpkpcllakjifppnca?pli=1)

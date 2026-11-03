@@ -23,7 +23,7 @@ ht-degree: 0%
 
 如果您遺失行事曆邀請，或無法從個人化連結加入，請依照下列備份步驟啟動會議室：
 
-1. 移至[**[!UICONTROL 我的學習&#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings)。
+1. 移至[**[!UICONTROL 我的學習&#x200B;]**](https://experienceleague.adobe.com/zh-hant/premium/learnings)。
 1. 導覽至&#x200B;**[!UICONTROL 進行中學習]**&#x200B;區段。
 1. 在&#x200B;**[!UICONTROL 即時講師]**&#x200B;下，找出您的課程。
 1. 在概覽中，切換至&#x200B;**[!UICONTROL 工作階段詳細資料]**&#x200B;標籤，並找出您所在的日期。
