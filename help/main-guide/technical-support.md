@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 0e0ff1f56fb5a43c2f4042872e11afeac01afab0
+source-git-commit: 07e74cd68f8d271c42b40fb554a773391e0ad0ed
 workflow-type: tm+mt
-source-wordcount: '769'
+source-wordcount: '771'
 ht-degree: 0%
 ---
 需要啟動會議室或內容的協助嗎？ 您的課堂體驗現在發生問題了嗎？
@@ -31,8 +31,8 @@ ht-degree: 0%
 - 請嘗試其他瀏覽器。
 - 嘗試替代網路或裝置。 您組織的網路或防火牆設定可能會阻止存取虛擬會議室。 如果可用，請嘗試使用其他網路或個人裝置。
 - 啟用音訊裝置設定。
-- 請查閱Adobe Connect的[技術規格](https://helpx.adobe.com/tw/adobe-connect/connect-tech-spec/12-10-technical-specifications.html)。
-- 允許列出工程部門建議的必要網域、IP位址和網路連線埠。 建議您與貴組織的IT團隊共用此[相關的Adobe文章](https://helpx.adobe.com/tw/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html)，讓他們允許必要的UDP和TCP連線埠，並確保媒體連線正常。
+- 請查閱Adobe Connect的[技術規格](https://helpx.adobe.com/adobe-connect/connect-tech-spec/12-10-technical-specifications.html)。
+- 允許列出工程部門建議的必要網域、IP位址和網路連線埠。 建議您與貴組織的IT團隊共用此[相關的Adobe文章](https://helpx.adobe.com/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html)，讓他們允許必要的UDP和TCP連線埠，並確保媒體連線正常。
 
 **其他Adobe Connect資源：**
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 使用行事曆邀請內的個人化連結加入會議室。
 
 如果您遺失行事曆邀請，或無法從個人化連結加入，請依照下列備份步驟啟動會議室：
-1. 移至[**[!UICONTROL 我的學習&#x200B;]**](https://experienceleague.adobe.com/zh-hant/premium/learnings)。
+1. 移至[**[!UICONTROL 我的學習&#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings)。
 1. 導覽至&#x200B;**[!UICONTROL 進行中學習]**&#x200B;區段。
 1. 在&#x200B;**[!UICONTROL 即時講師]**&#x200B;下，找出您的課程。
 1. 您應該會看到概覽。 切換至&#x200B;**[!UICONTROL 工作階段詳細資料]**&#x200B;標籤，並找出您所在的日期。
@@ -57,7 +57,7 @@ ht-degree: 0%
 使用行事曆邀請內的個人化連結加入會議室。
 
 如果您遺失行事曆邀請，或無法從個人化連結加入，請依照下列備份步驟啟動會議室：
-1. 移至[**[!UICONTROL 我的學習&#x200B;]**](https://experienceleague.adobe.com/zh-hant/premium/learnings)。
+1. 移至[**[!UICONTROL 我的學習&#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings)。
 1. 導覽至&#x200B;**[!UICONTROL 進行中學習]**&#x200B;區段。
 1. 找到同類群組。
 1. 導覽至適當的周並展開工作階段。
@@ -73,6 +73,6 @@ ht-degree: 0%
 
 ## 電子郵件傳遞能力提示
 
-學習電子郵件和行事曆邀請將會從[plsnore@adobe.com](mailto:plsnore@adobe.com)傳送。 為確保您收到重要更新，請將此電子郵件地址新增至您的連絡人或安全的寄件者清單。 如果您認為已錯過電子郵件，請檢查您的垃圾郵件或垃圾郵件資料夾，以及任何篩選的收件匣標籤（例如Outlook中的&#x200B;**[!UICONTROL 其他]**&#x200B;標籤）。
+學習電子郵件和行事曆邀請是從[plsnore@adobe.com](mailto:plsnore@adobe.com) （無回覆地址）傳送。 為確保您收到重要更新，請將此電子郵件地址新增至您的連絡人或安全的寄件者清單。 如果您認為已錯過電子郵件，請檢查您的垃圾郵件或垃圾郵件資料夾，以及任何篩選的收件匣標籤（例如Outlook中的&#x200B;**[!UICONTROL 其他]**&#x200B;標籤）。
 
 這裡未列出問題？ [連絡我們](https://adobe.service-now.com/adls?category=6)。
