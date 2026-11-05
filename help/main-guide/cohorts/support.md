@@ -23,7 +23,7 @@ ht-degree: 0%
 
 如果您遺失行事曆邀請，請依照下列備份步驟啟動會議室：
 
-1. 移至[**[!UICONTROL 我的學習&#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings)。
+1. 移至[**[!UICONTROL 我的學習&#x200B;]**](https://experienceleague.adobe.com/zh-hant/premium/learnings)。
 1. 導覽至&#x200B;**[!UICONTROL 進行中學習]**&#x200B;區段。
 1. 找到同類群組。
 1. 導覽至適當的周並展開工作階段。
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 如果您無法從行事曆邀請內的個人化連結加入，請依照下列備份步驟來啟動會議室：
 
-1. 移至[**[!UICONTROL 我的學習&#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings)。
+1. 移至[**[!UICONTROL 我的學習&#x200B;]**](https://experienceleague.adobe.com/zh-hant/premium/learnings)。
 1. 導覽至&#x200B;**[!UICONTROL 進行中學習]**&#x200B;區段。
 1. 找到同類群組。
 1. 導覽至適當的周並展開工作階段。
