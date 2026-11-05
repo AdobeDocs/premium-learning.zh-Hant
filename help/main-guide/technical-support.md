@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 0e0ff1f56fb5a43c2f4042872e11afeac01afab0
+source-git-commit: 07e74cd68f8d271c42b40fb554a773391e0ad0ed
 workflow-type: tm+mt
-source-wordcount: '769'
+source-wordcount: '771'
 ht-degree: 0%
 ---
 需要啟動會議室或內容的協助嗎？ 您的課堂體驗現在發生問題了嗎？
@@ -73,6 +73,6 @@ ht-degree: 0%
 
 ## 電子郵件傳遞能力提示
 
-學習電子郵件和行事曆邀請將會從[plsnore@adobe.com](mailto:plsnore@adobe.com)傳送。 為確保您收到重要更新，請將此電子郵件地址新增至您的連絡人或安全的寄件者清單。 如果您認為已錯過電子郵件，請檢查您的垃圾郵件或垃圾郵件資料夾，以及任何篩選的收件匣標籤（例如Outlook中的&#x200B;**[!UICONTROL 其他]**&#x200B;標籤）。
+學習電子郵件和行事曆邀請是從[plsnore@adobe.com](mailto:plsnore@adobe.com) （無回覆地址）傳送。 為確保您收到重要更新，請將此電子郵件地址新增至您的連絡人或安全的寄件者清單。 如果您認為已錯過電子郵件，請檢查您的垃圾郵件或垃圾郵件資料夾，以及任何篩選的收件匣標籤（例如Outlook中的&#x200B;**[!UICONTROL 其他]**&#x200B;標籤）。
 
 這裡未列出問題？ [連絡我們](https://adobe.service-now.com/adls?category=6)。

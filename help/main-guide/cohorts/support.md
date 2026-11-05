@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: f3bad68f1a3da076d6409bccd1b7c48fdfb11c21
+source-git-commit: 07e74cd68f8d271c42b40fb554a773391e0ad0ed
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '311'
 ht-degree: 0%
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 我的同類群組即時工作階段缺少行事曆邀請。
 
-邀請來自[plsnore@adobe.com](mailto:plsnore@adobe.com) （用於學習相關通知和行事曆邀請）。 請檢查您的垃圾郵件或垃圾郵件資料夾，以及任何次要收件匣標籤（例如Outlook中的&#x200B;**[!UICONTROL 其他]**&#x200B;標籤或類似的篩選檢視）。
+邀請來自[plsnore@adobe.com](mailto:plsnore@adobe.com) （用於學習相關通知和行事曆邀請的無法回覆地址）。 請檢查您的垃圾郵件或垃圾郵件資料夾，以及任何次要收件匣標籤（例如Outlook中的&#x200B;**[!UICONTROL 其他]**&#x200B;標籤或類似的篩選檢視）。
 
 使用行事曆邀請內的個人化連結&#x200B;**加入會議室**。
 

@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: f3bad68f1a3da076d6409bccd1b7c48fdfb11c21
+source-git-commit: 07e74cd68f8d271c42b40fb554a773391e0ad0ed
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '361'
 ht-degree: 0%
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 為協助確保我們的電子郵件和行事曆邀請會傳送到您的收件匣，請將下列地址新增至您的連絡人或安全的寄件者清單：
 
-**[plsnore@adobe.com](mailto:plsnore@adobe.com)** （用於學習相關通知和行事曆邀請）
+**[plsnore@adobe.com](mailto:plsnore@adobe.com)** （用於學習相關通知和行事曆邀請的無回覆地址）
 
 **[environment@adobe.com](mailto:environment@adobe.com)**&#x200B;和&#x200B;**[atsenvironmentsupport@adobe.com](mailto:atsenvironmentsupport@adobe.com)** （用於沙箱和環境相關通知）
 
